@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwlSync", "OwlSync\OwlSync.csproj", "{FF32D490-44FF-4EBC-A32F-D142614A3B04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21DE2C71-A528-45C8-B286-EF06ADD82039}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF32D490-44FF-4EBC-A32F-D142614A3B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF32D490-44FF-4EBC-A32F-D142614A3B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF32D490-44FF-4EBC-A32F-D142614A3B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF32D490-44FF-4EBC-A32F-D142614A3B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21DF7A9-B525-451F-820D-755D2DFA4DEF}
+	EndGlobalSection
+EndGlobal
